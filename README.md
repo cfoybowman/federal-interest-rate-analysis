@@ -65,7 +65,18 @@ Periods of elevated inflation are associated with larger and more frequent rate 
 ---
 
 ## Project Structure
-``` federal-interest-rate-analysis/ ├─ data/ │ └─ interest_rates.csv ├─ images/ │ ├─ rate_levels_over_time.png │ ├─ rate_changes_over_time.png │ └─ rate_vs_inflation.png ├─ federal-funds-rate-analysis-1954-present.ipynb └─ README.md ```
+
+```
+federal-interest-rate-analysis/
+├─ data/
+│  └─ interest_rates.csv
+├─ images/
+│  ├─ rate_levels_over_time.png
+│  ├─ rate_changes_over_time.png
+│  └─ rate_change_vs_inflation.png
+├─ federal-funds-rate-analysis-1954-present.ipynb
+└─ README.md
+```
 
 ---
 
