@@ -41,6 +41,7 @@ The goal of this analysis is to provide an intuitive, data-driven view of how U.
 ---
 
 ## Project Structure
+
 federal-interest-rate-analysis/
 ├─ data/
 │ └─ interest_rates.csv
