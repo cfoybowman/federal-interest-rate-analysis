@@ -6,6 +6,30 @@ This project analyzes the historical behavior of the U.S. **Effective Federal Fu
 The goal of this analysis is to provide an intuitive, data-driven view of how U.S. monetary policy evolves over time and how it responds to broader economic conditions.
 
 ---
+## Visual Highlights
+
+### Federal Funds Rate Over Time
+![Federal Funds Rate Over Time](images/rate_levels_over_time.png)
+
+Long-term evolution of the effective federal funds rate, highlighting major monetary policy regimes.
+
+---
+
+### Changes in the Federal Funds Rate (Basis Points)
+![Rate Changes Over Time](images/rate_changes_over_time.png)
+
+Rate changes provide a clearer view of Federal Reserve policy actions and tightening/easing cycles.
+
+---
+
+### Rate Changes vs Inflation
+![Rate Changes vs Inflation](images/rate_vs_inflation.png)
+
+Periods of elevated inflation are associated with larger and more frequent rate adjustments.
+
+
+---
+
 
 ## Key Questions
 - How has the Federal Funds Rate evolved over time?
@@ -41,19 +65,7 @@ The goal of this analysis is to provide an intuitive, data-driven view of how U.
 ---
 
 ## Project Structure
-
-```
-federal-interest-rate-analysis/
-├─ data/
-│ └─ interest_rates.csv
-├─ images/
-│ ├─ rate_levels_over_time.png
-│ ├─ rate_changes_over_time.png
-│ └─ rate_vs_inflation.png
-├─ federal-funds-rate-analysis-1954-present.ipynb
-└─ README.md
-```
-
+``` federal-interest-rate-analysis/ ├─ data/ │ └─ interest_rates.csv ├─ images/ │ ├─ rate_levels_over_time.png │ ├─ rate_changes_over_time.png │ └─ rate_vs_inflation.png ├─ federal-funds-rate-analysis-1954-present.ipynb └─ README.md ```
 
 ---
 
