@@ -23,7 +23,7 @@ Rate changes provide a clearer view of Federal Reserve policy actions and tighte
 ---
 
 ### Rate Changes vs Inflation
-![Rate Changes vs Inflation](images/rate_vs_inflation.png)
+![Rate Changes vs Inflation](images/rate_change_vs_inflation.png)
 
 Periods of elevated inflation are associated with larger and more frequent rate adjustments.
 
