@@ -43,13 +43,13 @@ The goal of this analysis is to provide an intuitive, data-driven view of how U.
 ## Project Structure
 federal-interest-rate-analysis/
 ├─ data/
-│  └─ interest_rates.csv
+│ └─ interest_rates.csv
 ├─ images/
-│  ├─ rate_levels_over_time.png
-│  ├─ rate_changes_over_time.png
-│  └─ rate_vs_inflation.png
+│ ├─ rate_levels_over_time.png
+│ ├─ rate_changes_over_time.png
+│ └─ rate_vs_inflation.png
 ├─ federal-funds-rate-analysis-1954-present.ipynb
-├─ README.md
+└─ README.md
 
 
 ---
